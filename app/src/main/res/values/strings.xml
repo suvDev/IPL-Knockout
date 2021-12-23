@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IPL Knockout</string>
+    <string name="start_ipl">Start IPL</string>
+    <string name="simulate">Simulate</string>
+    <string name="simulate_end">Simulate &amp; End</string>
+    <string name="versus">vs</string>
+    <string name="restart">Restart</string>
+    <string name="first_position">1st Position</string>
+    <string name="second_position">2nd Position</string>
+</resources>
